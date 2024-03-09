@@ -25,6 +25,8 @@ Although we did not provide the original dataset, we provide the topological eig
 
 [GraphSAGE_Embedding](https://drive.google.com/file/d/1OEmNnomTIDu5CBu3FjYVDt6Aha1SpZD6/view?usp=drive_link)
 
+[BERT_Input](https://drive.google.com/file/d/1eLesvGxcMn-0pk8y0VpUd7WCAt_m47-q/view?usp=drive_link).
+
 Download the above json file and put it in the root directory
 
 After downloading the above files, you can run the following commands to train the model:
